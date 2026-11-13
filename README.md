@@ -1,6 +1,6 @@
 # Jody Roberts
 
-Product leader and builder. I make agent-first software.
+Product leader and builder. I make agent-first data, software, tools, and solutions.
 
 I'm interested in one question: **how do you make AI agents do real work reliably?** My answer so far is deterministic orchestration, context that lives in git, and verification that is cheap enough to automate.
 
